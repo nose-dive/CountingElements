@@ -5,7 +5,8 @@ public class ElementCounter {
 	
 	private String word = ""; 
 	private String num = "";
-
+  
+	
 	Stack<Integer> multipliers;
 	
 	HashMap<String, Integer> countElements(String input){
